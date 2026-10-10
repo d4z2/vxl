@@ -1,0 +1,6 @@
+{
+  "appId": "com.vxl.luyenthi",
+  "appName": "Luyện thi VXL",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
